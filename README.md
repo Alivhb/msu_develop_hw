@@ -1,1 +1,2 @@
 # msu_develop_hw
+    This assigment had me improve the code given to me without changing its function. I did as instructed to the best of my abiities, by making sure there were semantic tags in place, that all features of the code were working properly and adding alt attributes to Images.
